@@ -9,5 +9,5 @@ The "Eco Cosmetics" project is a web application designed to serve as the landin
   - GitHub Pages: Hosting service used to publish the static web page directly from the GitHub repository.
   - Responsive Design: Techniques and practices used to ensure the web page is visually appealing and functional across various devices and screen sizes.
 
-3. Demo link: https://alinaovod.github.io/nice-gadgets-store/
-4. Project layout: [Project layout](https://alinaovod.github.io/eco-cosmetics-landing/)
+3. [Demo link:](https://alinaovod.github.io/nice-gadgets-store/)
+4. [Project layout:](https://alinaovod.github.io/eco-cosmetics-landing/)
