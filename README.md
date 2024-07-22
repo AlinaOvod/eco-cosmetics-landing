@@ -11,3 +11,4 @@ The "Eco Cosmetics" project is a web application designed to serve as the landin
 
 3. [Demo link](https://alinaovod.github.io/nice-gadgets-store/)
 4. [Project layout](https://alinaovod.github.io/eco-cosmetics-landing/)
+5. [Mockup](https://www.figma.com/design/feCHNI7ZD8WPJVBrEXWwA8/Brand-of-eco-cosmetics-_FE-students-(Copy)-(Copy)?node-id=21779-2&t=ulr25bYjceVubSi2-1)
